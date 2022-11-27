@@ -32,5 +32,12 @@ The management may track progress of work from a dashboard where task assignment
 
 - Management or delegation can also assess performance of individual designers based on the number of designs created and ratings achieved for designs.
 
-## Scope:
-- 
+## Modules:
+- user: content creator, client (registration), manager
+- payments: monthly (defined card + discount) or task based (negotiated amount) payment with transaction id and all other payment related info.
+- task management: task assignment, progress tracking, deadlines
+- cost estimation (approval via email)
+- order: form
+- finance
+- archive management, rating
+- performance evaluation.
