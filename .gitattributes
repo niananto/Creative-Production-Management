@@ -1,0 +1,2 @@
+01[[:space:]]Scope[[:space:]]Fixation filter=lfs diff=lfs merge=lfs -text
+02[[:space:]]BPMN filter=lfs diff=lfs merge=lfs -text
