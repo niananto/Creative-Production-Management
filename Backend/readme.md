@@ -2,7 +2,9 @@
 
 Install postgres (I am using version 15) from their website. Keep track of the username, hostname, password, database name, port etc as you need them later.  
 Then run -
-> npm install
+```
+npm install
+```
 
 ### Secret File
 
@@ -20,5 +22,7 @@ DB_PORT=5433
 ### Ignition
 
 To run the test server -
->npm run dev
+```
+npm run dev
+```
 
